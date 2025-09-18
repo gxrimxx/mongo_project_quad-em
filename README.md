@@ -13,7 +13,8 @@ This was a group project completed with:
 - Joann Mathews – frontend development, date filter API + UI  
 - Praislin Peter – backend lead, debugging  
 - Garima Singh – backend APIs (user search filter), UI integration, debugging support  
-**Technology Stack**
+
+## **Technology Stack**
 
 Backend
 - FastAPI (Python): FastAPI was used to build the backend API because it is lightweight, modern, and automatically generates interactive documentation, thus making development and testing easier.

@@ -1,3 +1,18 @@
+## Project Overview
+Mongo Project - Quad EM  
+A course project where we built a MongoDB-based system with backend APIs and frontend features.  
+
+## My Contributions
+- Developed backend APIs with focus on user search filter API.  
+- Worked on frontend UI integration for search and filtering.  
+- Collaborated in debugging and assisted teammates across different parts of the project.  
+
+## Team
+This was a group project completed with:  
+- Farheen Haniyah – frontend development, geospatial API + UI  
+- Joann Mathews – frontend development, date filter API + UI  
+- Praislin Peter – backend lead, debugging  
+- Garima Singh – backend APIs (user search filter), UI integration, debugging support  
 **Technology Stack**
 
 Backend
